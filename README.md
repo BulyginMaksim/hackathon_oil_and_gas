@@ -17,4 +17,5 @@ Pipeline of solution consists of:
 - SHAP and LASSO feature selection
 - Final submit
 
-Notebook with solution is presented in `solution_notebook.ipynb`, pitch presentation is presented in `presentation.pdf`.
+Notebook with solution is presented in `solution_notebook.ipynb`.
+Pitch presentation is presented in `pitch_presentation.pdf`.
